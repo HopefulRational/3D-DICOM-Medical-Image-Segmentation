@@ -1,0 +1,3 @@
+/home/ankit/Desktop/for Lokesh/FINAL/SegEval/bin3/CMakeFiles/edit_cache.dir
+/home/ankit/Desktop/for Lokesh/FINAL/SegEval/bin3/CMakeFiles/rebuild_cache.dir
+/home/ankit/Desktop/for Lokesh/FINAL/SegEval/bin3/CMakeFiles/testing.dir

@@ -1,0 +1,3 @@
+/home/ankit/Desktop/SegEval/bin2/CMakeFiles/edit_cache.dir
+/home/ankit/Desktop/SegEval/bin2/CMakeFiles/rebuild_cache.dir
+/home/ankit/Desktop/SegEval/bin2/CMakeFiles/testing.dir
